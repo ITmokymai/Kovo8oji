@@ -61,6 +61,7 @@ footer{
     background-repeat: repeat;
     background-position: bottom;
     background-size: contain;
+    padding: 50px;
 }
 
 footer p{
